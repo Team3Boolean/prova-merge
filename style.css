@@ -21,3 +21,14 @@
     border-radius: 10px;
     margin-top: 10px;
 }
+
+.box1{
+    width: 400px;
+    height: 400px;
+    background-color: aquamarine;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
