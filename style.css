@@ -9,3 +9,13 @@
     border-style: dashed;
     font-family: Verdana, Geneva, Tahoma, sans-serif;    
 }
+
+.box1{
+    width: 400px;
+    height: 400px;
+    background-color: aquamarine;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
