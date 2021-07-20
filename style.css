@@ -1,7 +1,10 @@
 .box{
-    background-color: #7fffd4;
+    background-color: #db7fff;
     width: 400px;
     height: 300px;
-    border: 2px solid #053b29;
+    border: 2px solid #9bf8d9;
     border-radius: 8px;
+    text-align: center;
+    border-style: dashed;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;    
 }
